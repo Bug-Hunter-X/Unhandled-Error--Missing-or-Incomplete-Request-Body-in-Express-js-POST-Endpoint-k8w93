@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Express.js applications where the server lacks proper error handling for POST requests with missing or incomplete request bodies. The `bug.js` file shows the erroneous code, while `bugSolution.js` provides a corrected version with comprehensive error handling.
